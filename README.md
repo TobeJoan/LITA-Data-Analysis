@@ -17,15 +17,15 @@ We use data analysis to help business know
 - What is working?
 - What is not working?
 - What to focus on
+  
   For the purpose of the training, we focused on learning the use of these three different softwares:
 - Microsoft Excel [Download Here](https://www.microsoft.com/en-ng)
 - Structured Query Language (SQL)
 - Microsoft Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-- 
+  
   ---
   ### Microsoft Excel
-  - We were taught how to input data into spreadsheet, create and format worksheets and avoid common errors while inputting or handling data.
-  - We were taught various excel functions that helped with: Text, Numbers, LookUp and creating Pivot Tables that help to summarize large amount of data. 
+  It is a spreadsheet application used to store and analyse data. We were taught how to input data into spreadsheet, create and format worksheets and avoid common errors while inputting or handling data. We were taught various excel functions that helped with: Text, Numbers, LookUp and creating Pivot Tables that help to summarize large amount of data. 
   
 
 
@@ -37,6 +37,7 @@ We use data analysis to help business know
 
 
 
+### Structured Query Language
 
 
 
@@ -46,8 +47,7 @@ We use data analysis to help business know
 
 
 
-
-
+### Power BI
 
 
 
