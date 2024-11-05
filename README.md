@@ -41,15 +41,20 @@ We use data analysis to help business know
 #### Analysing Project 1: Sales Data
 - The first step was to clean the data by Removing Duplicate whoch was done by clicking "Data" on the Ribbon and then "Remove Duplicates". With that, the first question had been solved
 - The next step was to create a pivot table. I clicked on any cell within the dataset and clicked "Insert" on the Ribbon and then "Insert Pivot Table". I chose to open it in a new worksheet to make it neater and not interfere with the original data.
-- The bext question was to use the pivot table to summarize total sales by product, region, and month. To do that, I clicked on a cell within the pivot table and a toolbar came up. From the toolbar, I was able to click and drag the required headers; Product (Rows), Region (Columns) and Date: month (Values) to the pivot table and the data under these headers were summarised
+- The next question was to use the pivot table to summarize total sales by product, region, and month. To do that, I clicked on a cell within the pivot table and a toolbar came up. From the toolbar, I was able to click and drag the required headers; Product (Rows), Region (Columns) and Date: month (Values) to the pivot table and the data under these headers were summarised
 - The next question was to calculate metrics such as average sales per product and total revenue by region. To do this, I copied and pasted the first pivot table into the same sheet and changed the headers to the ones that were required for the question. Product (Rows) and Region (Columns)
-- The last question asked to create other interesting reports and so I chose to summarize
+- The last question asked to create other interesting reports and so I chose to summarize total Revenue by Product, Region and Quantity. Using the same method of copying and pasting the previous pivot table unto the same sheet and replacing the headers, I was able to summarize it as seen in the picture below
   
 ![CAPCUT Xcel Project 1](https://github.com/user-attachments/assets/83424212-8029-4a77-8941-ee68841cbd49)
 
-For the Second Project, we were asked to: 
+For the Second Project: Customer Data, we were asked to: 
+- Analyze customer data using pivot tables to find subscription patterns.
+- Calculate the average subscription duration and identify the most popular subscription types
+- Create any other interesting reports
 
-
+  #### Analyzing Project 2: Customer Data
+- Like in the first project, I clened the data by Removing duplicates and proceeded to create a pivot table for that dataset in a new worksheet.
+- To find subscription patterns,
   ![CAPCUT Xcel Project 2](https://github.com/user-attachments/assets/c61be763-4e7c-441b-b601-9723b071686e)
 
 
