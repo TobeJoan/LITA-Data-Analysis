@@ -35,10 +35,18 @@ We use data analysis to help business know
 - Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
 - Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
 - Create any other interesting report
+#### Analysing Project 1: Sales Data
+- The first step was to clean the data by Removing Duplicate whoch was done by clicking "Data" on the Ribbon and then "Remove Duplicates"
+- The next step was to create a pivot table. I clicked on any cell within the dataset and clicked "Insert" on the Ribbon and then "Insert Pivot Table". I chose to open it in a new worksheet to make it neater and not interfere with the original data.
   
-  ![CAPCUT Xcel Project 2](https://github.com/user-attachments/assets/c61be763-4e7c-441b-b601-9723b071686e)
 ![CAPCUT Xcel Project 1](https://github.com/user-attachments/assets/83424212-8029-4a77-8941-ee68841cbd49)
 
+For the Second Project, we were asked to: 
+
+
+  ![CAPCUT Xcel Project 2](https://github.com/user-attachments/assets/c61be763-4e7c-441b-b601-9723b071686e)
+
+!
 
   ### Structured Query Language
   Structured query language (SQL) is a standard language for database creation and manipulation. It is a relational database program that uses SQL queries. We learnt functions like SELECT, JOIN, DINSTINCT, LEFT, FULL AND RIGHT JOIN, SUM, e.t.c 
