@@ -22,11 +22,17 @@ We use data analysis to help business know
 - Microsoft Excel [Download Here](https://www.microsoft.com/en-ng)
 - Structured Query Language (SQL)
 - Microsoft Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-  
+  ,
   ---
   ### Microsoft Excel
   It is a spreadsheet application used to store and analyse data. We were taught how to input data into spreadsheet, create and format worksheets and avoid common errors while inputting or handling data. We were taught various excel functions that helped with: Text, Numbers, LookUp and creating Pivot Tables that help to summarize large amount of data. 
-  
+  We were given a project, Capstone Project where we apply all we had been taught in Excel, SQL and Power BI.
+
+  ### Structured Query Language
+  Structured query language (SQL) is a standard language for database creation and manipulation. It is a relational database program that uses SQL queries. We learnt functions like SELECT, JOIN, DINSTINCT, LEFT, FULL AND RIGHT JOIN, SUM, e.t.c
+
+  ### Power BI
+  Power BI is a data visualization platform used primarily for business intelligence purposes. It is used to create reports and dashboards that present data sets in multiple ways using visuals. It turns data into a wide range of different visuals, including pie charts combo charts, bar and column charts, and ribbon charts, among many other options.
 
 
 
