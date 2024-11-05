@@ -60,10 +60,9 @@ For the Second Project: Customer Data, we were asked to:
 
 
   ### Structured Query Language
-  Structured query language (SQL) is a standard language for database creation and manipulation. It is a relational database program that uses SQL queries. We learnt functions like SELECT, JOIN, DINSTINCT, LEFT, FULL AND RIGHT JOIN, SUM, e.t.c 
-![CAPSTONE SQL Project 2](https://github.com/user-attachments/assets/8ac757cd-c463-48bc-9ee7-6aa7d998747c)
-![CAPSTONE SQL Project 1](https://github.com/user-attachments/assets/40f9111d-3425-4ee6-980d-1a26d4b6ccd1)
-For the Capstone Project, the tasks given were to:
+  Structured query language (SQL) is a standard language for database creation and manipulation. It is a relational database program that uses SQL queries. We learnt functions like SELECT, JOIN, DINSTINCT, LEFT, FULL AND RIGHT JOIN, SUM, e.t.c
+
+For the Project 1: Sales Data, the tasks given were to:
 - retrieve the total sales for each product category.
 - find the number of sales transactions in each region.
 - find the highest-selling product by total sales value.
@@ -72,6 +71,22 @@ For the Capstone Project, the tasks given were to:
 - find the top 5 customers by total purchase amount.
 - calculate the percentage of total sales contributed by each region.
 - identify products with no sales in the last quarter.
+  
+![CAPSTONE SQL Project 1](https://github.com/user-attachments/assets/40f9111d-3425-4ee6-980d-1a26d4b6ccd1)
+
+
+For the Project 2: Customer Data
+  Write queries to extract key insights based on the following questions.
+- retrieve the total number of customers from each region.
+- find the most popular subscription type by the number of customers.
+- find customers whs canceled their subscription within 6 months
+- calculate the average subscription duration for all customers
+- find customers with subscriptions longer than 12 months
+- calculate total revenue by subscription type
+- find the top 3 regions by subscription cancellations.
+- find the total number of active and canceled subecriptions
+  
+![CAPSTONE SQL Project 2](https://github.com/user-attachments/assets/8ac757cd-c463-48bc-9ee7-6aa7d998747c)
   
   ### Power BI
   Power BI is a data visualization platform used primarily for business intelligence purposes. It is used to create reports and dashboards that present data sets in multiple ways using visuals. It turns data into a wide range of different visuals, including pie charts combo charts, bar and column charts, and ribbon charts, among many other options
