@@ -30,14 +30,20 @@ We use data analysis to help business know
   ---
   ### Microsoft Excel
   It is a spreadsheet application used to store and analyse data. We were taught how to input data into spreadsheet, create and format worksheets and avoid common errors while inputting or handling data. We were taught various excel functions that helped with: Text, Numbers, LookUp and creating Pivot Tables that help to summarize large amount of data. 
+  
   We were given a project, Capstone Project where we apply all we had been taught in Excel, SQL and Power BI.
   The tasks given were: 
-- Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
+- Perform an initial exploration of the sales data.
+- Use pivot tables to summarize total sales by product, region, and month.
 - Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
 - Create any other interesting report
+  
 #### Analysing Project 1: Sales Data
-- The first step was to clean the data by Removing Duplicate whoch was done by clicking "Data" on the Ribbon and then "Remove Duplicates"
+- The first step was to clean the data by Removing Duplicate whoch was done by clicking "Data" on the Ribbon and then "Remove Duplicates". With that, the first question had been solved
 - The next step was to create a pivot table. I clicked on any cell within the dataset and clicked "Insert" on the Ribbon and then "Insert Pivot Table". I chose to open it in a new worksheet to make it neater and not interfere with the original data.
+- The bext question was to use the pivot table to summarize total sales by product, region, and month. To do that, I clicked on a cell within the pivot table and a toolbar came up. From the toolbar, I was able to click and drag the required headers; Product (Rows), Region (Columns) and Date: month (Values) to the pivot table and the data under these headers were summarised
+- The next question was to calculate metrics such as average sales per product and total revenue by region. To do this, I copied and pasted the first pivot table into the same sheet and changed the headers to the ones that were required for the question. Product (Rows) and Region (Columns)
+- The last question asked to create other interesting reports and so I chose to summarize
   
 ![CAPCUT Xcel Project 1](https://github.com/user-attachments/assets/83424212-8029-4a77-8941-ee68841cbd49)
 
@@ -46,7 +52,7 @@ For the Second Project, we were asked to:
 
   ![CAPCUT Xcel Project 2](https://github.com/user-attachments/assets/c61be763-4e7c-441b-b601-9723b071686e)
 
-!
+
 
   ### Structured Query Language
   Structured query language (SQL) is a standard language for database creation and manipulation. It is a relational database program that uses SQL queries. We learnt functions like SELECT, JOIN, DINSTINCT, LEFT, FULL AND RIGHT JOIN, SUM, e.t.c 
