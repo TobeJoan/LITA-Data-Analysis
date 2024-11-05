@@ -107,8 +107,3 @@ For the Capstone Project, the tasks given were to:
 
 
 
-
-```SQL
-SELECT * FROM TABLE 1
-WHERE CONDITION = TRUE
-```
