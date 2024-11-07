@@ -1,6 +1,3 @@
-![1000507649](https://github.com/user-attachments/assets/482a4875-8eb3-4902-8c3c-923324b1bb9a)
-![1000507648](https://github.com/user-attachments/assets/272ac2ba-26d8-4813-b21e-fc6044aedd47)
-![1000507775](https://github.com/user-attachments/assets/55412590-d24e-4dd5-915a-a94e95ee3cfd)
 # LITA Training Program
 ---
 ## Project Title: Learning with LITA Data Analysis
@@ -9,13 +6,13 @@ This portfolio hopes to show my journey learning data analysis with Ladies in Te
 
   ---
   ## Introduction to Data Analysis
-  ### "The Capacity to learn is a gift, the ability to learn is a skill, the willingness to learn is a choice"  ~ Brian Herbert
+  #### "The Capacity to learn is a gift, the ability to learn is a skill, the willingness to learn is a choice"  ~ Brian Herbert
   Data Analysis is the process of systematically collecting, transforming, and organizing data in order to draw conclusions, make predictions, and drive informed decision making. The foundation of data are: 
   - Data Generation: Collation of Data
   - Data Structure: Structured, Unstructured and Semi-structured formats
   - Data Storage: Data can be stored on premises i.e within an organisation using a centralised system called a server; or on the cloud, i.e data warehouses or data centers
   - Data Analysis: It starts with connecting to a data source to collect data (INGESTION), changing or editing the format of the data (TRANSFORMATION), connecting tables to make a single report (MODELING), building charts or graphs (VISUALISATIONS), using statistical tools to understand the data (ANALYSIS) and ends with presenting the data to the client (PRESENTATION).
-  ### Why Data Analysis???
+  ## Why Data Analysis???
 We use data analysis to help business know
 - What is working?
 - What is not working?
@@ -92,7 +89,14 @@ For the Project 2: Customer Data
 ![CAPSTONE SQL Project 2](https://github.com/user-attachments/assets/8ac757cd-c463-48bc-9ee7-6aa7d998747c)
   
   ### Power BI
-  Power BI is a data visualization platform used primarily for business intelligence purposes. It is used to create reports and dashboards that present data sets in multiple ways using visuals. It turns data into a wide range of different visuals, including pie charts combo charts, bar and column charts, and ribbon charts, among many other options
+  Power BI is a data visualization platform used primarily for business intelligence purposes. It is used to create reports and dashboards that present data sets in multiple ways using visuals. It turns data into a wide range of different visuals, including pie charts combo charts, bar and column charts, and ribbon charts, among many other options.
+  
+  #### Project 1
+  ![1000507649](https://github.com/user-attachments/assets/482a4875-8eb3-4902-8c3c-923324b1bb9a)
+
+  #### Project 2
+![1000507648](https://github.com/user-attachments/assets/272ac2ba-26d8-4813-b21e-fc6044aedd47)
+![1000507775](https://github.com/user-attachments/assets/55412590-d24e-4dd5-915a-a94e95ee3cfd)
 
 
 
