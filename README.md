@@ -95,8 +95,10 @@ For the Project 2: Customer Data
   ![1000507775](https://github.com/user-attachments/assets/55412590-d24e-4dd5-915a-a94e95ee3cfd)
 
  #### Project 2
+ ![1000507648](https://github.com/user-attachments/assets/272ac2ba-26d8-4813-b21e-fc6044aedd47)
+ 
   ![1000507649](https://github.com/user-attachments/assets/482a4875-8eb3-4902-8c3c-923324b1bb9a)
-![1000507648](https://github.com/user-attachments/assets/272ac2ba-26d8-4813-b21e-fc6044aedd47)
+
 
 
 
